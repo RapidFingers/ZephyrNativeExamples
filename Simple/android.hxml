@@ -1,0 +1,8 @@
+-cp src
+-D analyzer-optimize
+-D no-compilation
+-dce full
+-lib ZephyrNative
+-java ./build/android/src/main/java
+com.zephyr.TestZNative
+-java-lib d:/Workspace/Haxe/ZephyrNative/libs/android.jar

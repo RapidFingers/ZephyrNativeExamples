@@ -1,0 +1,7 @@
+{
+	"name": "TestZNative",
+	"packageName": "com.zephyr",
+	"javaLibs": [
+		"android.jar"
+	]
+}
